@@ -13,6 +13,7 @@ A minimal Dockerfile based on OpenJDK's JRE 8/11 Dockerfile (regular, slim) and 
 - npm 6
 - yarn
 - curl
+- git
 
 ---
 
